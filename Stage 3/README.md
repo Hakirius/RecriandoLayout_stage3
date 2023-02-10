@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido a partir das instruções do desafio do Explorer R
 <br>
 
 <p align="center">
-  <img alt="Proteção_dados" src="./Images/desafio.png" width="100%">
+  <img alt="" src="./Images/desafio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
