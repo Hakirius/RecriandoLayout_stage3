@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido a partir das instruções do desafio do Explorer R
 <br>
 
 <p align="center">
-  <img alt="" src="./images/desafio.png" width="100%">
+  <img alt="" src="./images/222.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
